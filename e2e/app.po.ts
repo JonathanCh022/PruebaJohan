@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class CursoAngular4WebappPage {
+export class PruebaCi2WebPage {
   navigateTo() {
     return browser.get('/');
   }

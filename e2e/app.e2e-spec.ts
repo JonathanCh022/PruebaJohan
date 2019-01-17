@@ -1,10 +1,10 @@
-import { CursoAngular4WebappPage } from './app.po';
+import { PruebaCi2WebPage } from './app.po';
 
-describe('curso-angular4-webapp App', () => {
-  let page: CursoAngular4WebappPage;
+describe('PruebaCi2WebPage App', () => {
+  let page: PruebaCi2WebPage;
 
   beforeEach(() => {
-    page = new CursoAngular4WebappPage();
+    page = new PruebaCi2WebPage();
   });
 
   it('should display message saying app works', () => {

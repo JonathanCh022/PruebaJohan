@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "curso-angular4-webapp"
+    "name": "prueba-ci2-web"
   },
   "apps": [
     {
